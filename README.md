@@ -13,9 +13,10 @@
 
 <p align= "center"><span align= "center">🤝🏽 I am open to collaborations! You can get in touch with me on </span><span><a href="https://www.linkedin.com/in/mariya-abdul-ghafoor/">LinkedIn</a></span><span> or email me @ mariya.aghafoor@gmail.com  📫 </span></p>
 
-[![Mariya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mariya-ghafoor&show_icons=true&theme=light&show=reviews,prs_merged_percentage&hide=stars,contribs,issues&hide_rank=true&rank_icon=default)](https://github.com/anuraghazra/github-readme-stats)
-
-<!---
-Mariya-ghafoor/Mariya-ghafoor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align= "center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Mariya-ghafoor&rank_icon=github&show_icons=true&theme=cobalt&show=reviews,prs_merged_percentage&hide=stars,contribs,issues" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mariya-ghafoor&layout=compact&langs_count=8&card_width=320&theme=cobalt" />
+</a></p>p>
