@@ -15,7 +15,7 @@
 
 <p align= "center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Mariya-ghafoor&rank_icon=github&show_icons=true&theme=cobalt&show=reviews,prs_merged_percentage&hide=stars,contribs,issues" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Mariya-ghafoor&rank_icon=github&show_icons=true&theme=cobalt&show=reviews,prs_merged_percentage&hide=stars,contribs,issues&custom_title=My+GitHub+stats!" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mariya-ghafoor&layout=compact&langs_count=8&card_width=320&theme=cobalt" />
