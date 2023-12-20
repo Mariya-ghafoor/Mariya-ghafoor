@@ -37,7 +37,7 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mariya-ghafoor&layout=compact&langs_count=8&card_width=320&theme=cobalt" />
   </a>
   <a>
-    <img height=200 align="center" src="https://streak-stats.demolab.com/?user=Mariya-ghafoor&theme=dark&card_width=300" />
+    <img height=200 align="center" src="https://streak-stats.demolab.com/?user=Mariya-ghafoor&theme=dark&card_width=500" />
   </a>
 </p>
 
