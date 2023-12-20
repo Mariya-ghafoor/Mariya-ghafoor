@@ -43,8 +43,8 @@
 
 
 ---
+<h2 align= "center">✍🏽 Latest Blog Posts</h2>
 
-### :writing_hand: Blog Posts :
 <!-- BLOG-POST-LIST:START -->
 - [Why is my React component not receiving updated props?](https://medium.com/@mariya.aghafoor/why-is-my-react-component-not-receiving-updated-props-370f726d3791?source=rss-c5df4976ed9f------2)
 - [What the heck is REST API???](https://medium.com/@mariya.aghafoor/what-the-heck-is-rest-api-490c3c2dc8a2?source=rss-c5df4976ed9f------2)
