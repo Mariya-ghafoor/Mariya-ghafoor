@@ -29,7 +29,7 @@
 
 <p align= "center">
 <a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Mariya-ghafoor&rank_icon=github&show_icons=true&theme=dark&card_width=530&show=reviews,prs_merged_percentage&hide=stars,contribs,issues&hide_title=true" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Mariya-ghafoor&rank_icon=github&show_icons=true&theme=dark&card_width=532&show=reviews,prs_merged_percentage&hide=stars,contribs,issues&hide_title=true" />
 </a></p>
 
 <p align= "center">
