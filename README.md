@@ -1,7 +1,10 @@
-<h1 align= "center">Hi, I’m Mariya! 👩🏻‍💻</h1>
-<h3 align= "center">I like to create software  that is fun and meaningful</h3>
+<h2 align= "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=2000&size=24&pause=1000&center=true&vCenter=true&random=false&width=516&height=57&lines=Nice+to+meet+you+where+you've+been%3F" alt="Typing SVG" /></a>
+ 
+ <br> Hi, I’m Mariya! 👩🏻‍💻 <br> 
+ A Software geek 😎 based in Sydney, Australia 🇦🇺 
+ <br> I like to create software  that is fun and meaningful 💃🏻</h2>
 
-<h2 align= "center">🔥 Languages/Frameworks 🔥</h2> 
+<h2 align= "center">🤟🏽 Languages/Frameworks 🤟🏽</h2> 
  <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,next,python,java,spring,nest,mysql&theme=dark" />
@@ -20,3 +23,4 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mariya-ghafoor&layout=compact&langs_count=8&card_width=320&theme=cobalt" />
 </a></p>
+
