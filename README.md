@@ -28,10 +28,17 @@
 <h2 align= "center">📈 GitHub stats </h2>
 
 <p align= "center">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Mariya-ghafoor&rank_icon=github&show_icons=true&theme=cobalt&show=reviews,prs_merged_percentage&hide=stars,contribs,issues&custom_title=My+GitHub+stats!" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mariya-ghafoor&layout=compact&langs_count=8&card_width=320&theme=cobalt" />
 </a></p>
+
+
+<p align= "center"><a>
+  <img height=200 align="center" src="https://streak-stats.demolab.com/?user=Mariya-ghafoor&theme=dark" />
+</a></p>
+
+
 
