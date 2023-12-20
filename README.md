@@ -2,6 +2,7 @@
 - 👩🏻‍💻 I like to create software  that is meaningful and fulfilling
 - 🚀 I work with Python 🐍 , Javascript, Typescript and React 🖥️, Java 🫘, Spring Boot 🌱 and MySql 📒
 ## 🔥 Languages/Frameworks 🔥
+
  [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,next,python,java,spring,nest&theme=dark)](https://skillicons.dev)
 
 - 💞️ I’m looking to collaborate on any of the above
