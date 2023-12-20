@@ -1,8 +1,11 @@
 <h2 align= "center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=2000&size=24&pause=1000&center=true&vCenter=true&random=false&width=516&height=57&lines=Nice+to+meet+you+where+you've+been%3F" alt="Typing SVG" /></a>
+ <span id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="70"/>
+</span>
  
- <br> Hi, I’m Mariya! 👩🏻‍💻 <br> 
- A Software geek 😎 based in Sydney, Australia 🇦🇺 
- <br> I like to create software  that is fun and meaningful 💃🏻</h2>
+ <br> Hi, I’m Mariya! 👩🏻‍💻 
+<br> A Software geek 😎 based in Sydney, Australia 🇦🇺 
+<br> I like to create software  that is fun and meaningful 💃🏻</h2>
 
 <h2 align= "center">🤟🏽 Languages/Frameworks 🤟🏽</h2> 
  <p align="center">
