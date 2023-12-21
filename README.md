@@ -41,7 +41,6 @@
   </a>
 </p>
 
-
 ---
 <h2 align= "center">✍🏽 Latest Blog Posts</h2>
 
