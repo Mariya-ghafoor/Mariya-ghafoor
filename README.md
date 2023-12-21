@@ -45,10 +45,10 @@
 <h2 align= "center">✍🏽 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [Create and initialise database automatically in Spring Boot](https://medium.com/@mariya.aghafoor/create-and-initialise-database-automatically-in-spring-boot-96d06fa99cc9?source=rss-c5df4976ed9f------2)
 - [Why is my React component not receiving updated props?](https://medium.com/@mariya.aghafoor/why-is-my-react-component-not-receiving-updated-props-370f726d3791?source=rss-c5df4976ed9f------2)
 - [What the heck is REST API???](https://medium.com/@mariya.aghafoor/what-the-heck-is-rest-api-490c3c2dc8a2?source=rss-c5df4976ed9f------2)
 - [Boost Your Memory Efficiency with Python Generators: How to Save Memory When Working with Large…](https://medium.com/@mariya.aghafoor/boost-your-memory-efficiency-with-python-generators-how-to-save-memory-when-working-with-large-b007cf4fcc9a?source=rss-c5df4976ed9f------2)
-- [Unleashing the Power of N-ary Trees in Python: How This Data Structure Can Save You From a Life of…](https://medium.com/@mariya.aghafoor/unleashing-the-power-of-n-ary-trees-in-python-how-this-data-structure-can-save-you-from-a-life-of-6226d2d75db7?source=rss-c5df4976ed9f------2)
 <!-- BLOG-POST-LIST:END -->
 
 
