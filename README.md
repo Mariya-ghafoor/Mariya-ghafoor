@@ -45,10 +45,10 @@
 <h2 align= "center">✍🏽 Latest Blog Posts</h2>
 
 <!-- BLOG-POST-LIST:START -->
+- [How to enable CORS in Spring boot](https://towardsdev.com/how-to-enable-cors-in-spring-boot-ecaee4720d3c?source=rss-c5df4976ed9f------2)
 - [How to display latest Medium blogs on your website](https://towardsdev.com/how-to-use-mediums-api-to-display-live-blogs-on-your-website-0fb2e2535cab?source=rss-c5df4976ed9f------2)
 - [Deploy React+Spring Boot+MySql App for Free! Step-by-Step Guide](https://towardsdev.com/deploy-react-spring-boot-mysql-app-for-free-step-by-step-guide-e2e73a1f3d92?source=rss-c5df4976ed9f------2)
 - [Java recursion and variable passing: A step-by-step guide](https://towardsdev.com/how-recursive-methods-in-java-pass-variables-cb3c0cc63531?source=rss-c5df4976ed9f------2)
-- [Create and initialize database automatically in Spring Boot](https://towardsdev.com/create-and-initialise-database-automatically-in-spring-boot-96d06fa99cc9?source=rss-c5df4976ed9f------2)
 <!-- BLOG-POST-LIST:END -->
 
 
